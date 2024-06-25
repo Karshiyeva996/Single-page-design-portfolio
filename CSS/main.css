@@ -208,6 +208,11 @@ text-align: center;
 
 } 
 
+.car__btn {
+    background-color: var(--black);
+    border-radius: 50%;
+}
+
 /*BOOK*/ 
 .content {
     padding-top: 80px;
