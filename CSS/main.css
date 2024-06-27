@@ -162,7 +162,7 @@ body {
     width: 164px;
     height: 182px;
     border-radius: 8px;
-    background:  #F6A560;
+    background: #F6A560;
 }
 
 .skills-Apps {
@@ -283,6 +283,11 @@ body {
     padding-top: 56px;
     padding-bottom: 56px;
 
+}
+
+.carousel__img {
+    width: 640px;
+    height: 360px;
 }
 
 .car__btn {
